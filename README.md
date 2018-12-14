@@ -13,3 +13,7 @@
   - UART: https://blog.csdn.net/gx768233721/article/details/82951709
 
 - Simulator NJUST: https://github.com/jackychen227/ICRA2018_DJI_RM_AI_Challenge_NJUST
+
+## Environment
+
+ROS in docker: https://github.com/pierrekilly/docker-ros-box
