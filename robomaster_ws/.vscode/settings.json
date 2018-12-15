@@ -1,4 +1,9 @@
 {
   "C_Cpp.autocomplete": "Disabled",
-  "C_Cpp.clang_format_style": "Google"
+  "C_Cpp.clang_format_style": "Google",
+  "C_Cpp.errorSquiggles": "Disabled",
+  "C_Cpp.configurationWarnings": "Disabled",
+  "C_Cpp.intelliSenseEngine": "Disabled",
+  "C_Cpp.intelliSenseEngineFallback": "Disabled",
+  "C_Cpp.workspaceParsingPriority": "low"
 }
