@@ -1,7 +1,0 @@
-.idea/
-build/
-modules/perception/detection/yolo/weights
-*.pb.cc
-*.pb.h
-.vscode
-*.xmind
