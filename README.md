@@ -46,3 +46,4 @@ ROS in docker: https://github.com/pierrekilly/docker-ros-box
 2. 订阅了哪些topic？发布了哪些topic？
 3. 依赖少的基础模型，在实物上复现。依赖多的基础模型，伪造topic复现。
 4. 最好自己从头写一遍。至少照着敲一遍。
+5. 刚开始不要纠结于具体算法，先实现功能，然后发现不足再改进算法。
