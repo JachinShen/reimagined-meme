@@ -33,6 +33,8 @@ ROS in docker: https://github.com/pierrekilly/docker-ros-box
 
 ## TODO
 
+(我的理解可能和官方真实用处有出入，欢迎大家仔细阅读后一起讨论)
+
 - decision: 制作模拟器，在整车出来前用于试验。
 - driver: 相机驱动，需要解决权限问题，参考RM2018大符。
 - detection: 复用RM自瞄，包装一下，要求稳定。依赖driver。
@@ -46,4 +48,4 @@ ROS in docker: https://github.com/pierrekilly/docker-ros-box
 2. 订阅了哪些topic？发布了哪些topic？这些topic又对应到哪些node？
 3. 依赖少的基础模型，在实物上复现。依赖多的基础模型，伪造topic复现。
 4. 最好自己从头写一遍。至少照着敲一遍。
-5. 刚开始不要纠结于具体算法，先实现功能，然后发现不足再改进算法。
+5. 刚开始不要纠结于具体算法，先实现功能，发现不足再改进算法。
