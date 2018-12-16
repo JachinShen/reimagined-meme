@@ -33,6 +33,8 @@ ROS in docker: https://github.com/pierrekilly/docker-ros-box
 
 ## TODO
 
+![](./RoboRTS.svg)
+
 (我的理解可能和官方真实用处有出入，欢迎大家仔细阅读后一起讨论)
 
 - decision: 制作模拟器，在整车出来前用于试验。
